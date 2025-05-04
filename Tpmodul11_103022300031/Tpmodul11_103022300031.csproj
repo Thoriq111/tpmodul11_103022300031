@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="AljabarLibraries\AljabarLibraries.csproj" />
+    <None Include="Tpmodul11App\Tpmodul11.csproj" />
+  </ItemGroup>
+
 </Project>
